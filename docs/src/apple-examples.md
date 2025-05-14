@@ -12,17 +12,13 @@
 ## 广告推荐
 
 
-![image](/20241109220614.png)
+![image](/3da58991b100fd9ec715f3068b403cf.jpg)
 
-Fork本仓库，使用`Cloudflare Pages`连接到`GitHub存储库`
+全球TK一流号商源头/各国橱窗号，机刷号，自然流，各国店铺等
 
-构建命令 `npm run docs:build`
+![image](/3da58991b100fd9ec715f3068b403cf.jpg)
 
-构建输出目录 `docs/.vitepress/dist`
-
-环境变量 变量名称`API_URL`值为你的`分享页API` 
-
-分享页API参考: https://appleauto.pro/docs/api/share-api.html
+全球TK一流号商源头/各国橱窗号，机刷号，自然流，各国店铺等
 
 ## 移植到已有的项目
 
