@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/aipeach/Vitepress-AppleAutoPro' }
+      { icon: 'Telegram', link: 'https://t.me/K1LiG' }
     ]
   },
   srcDir: './src'
