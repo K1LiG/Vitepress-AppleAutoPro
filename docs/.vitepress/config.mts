@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "测试文档",
-  description: "测试文档",
+  title: "Django TK分享",
+  description: "Django TK分享",
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
