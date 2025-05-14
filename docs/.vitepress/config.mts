@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Django TK分享",
   description: "Django TK分享",
+    logo: '/os_django.png',
+
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
