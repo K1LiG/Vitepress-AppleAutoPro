@@ -4,8 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Django TK分享",
   description: "Django TK分享",
-    logo: '/os_django.png',
-
+     head:[['link',{rel:'icon',href:'/os_django.png'}]], 
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -26,7 +25,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: '/telegram-svgrepo-com.svg', link: 'https://t.me/K1LiG' }
+      { svg: '/telegram-svgrepo-com.svg', link: 'https://t.me/K1LiG' }
     ]
   },
   srcDir: './src'
