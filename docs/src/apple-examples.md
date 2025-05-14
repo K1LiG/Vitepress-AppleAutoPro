@@ -1,6 +1,6 @@
-# Examples
+# Apple ID 分享
 
-> 把AppleAutoPro分享页内嵌到VitePress，点击右上角GitHub图标即可查看源码
+
 
 ::: info Apple ID
 <GetAppleID />
