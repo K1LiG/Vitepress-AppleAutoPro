@@ -48,7 +48,7 @@ async function fetchData() {
     msg.value = data.msg;
     status.value = data.status;
 
-    const account = data.accounts[0]; // 假设只获取第一个账户
+    const account = data.accounts[1]; // 假设只获取第一个账户
     username.value = account.username;
     password.value = account.password;
     message.value = account.message;
