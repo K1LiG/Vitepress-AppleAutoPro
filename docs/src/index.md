@@ -9,5 +9,8 @@ hero:
     - theme: brand
       text: 领取ID
       link: /apple-examples
+    - theme: brand
+      text: 进群交流
+      link: /apple-examples
 ---
 
