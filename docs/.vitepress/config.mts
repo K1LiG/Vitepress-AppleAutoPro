@@ -17,7 +17,8 @@ export default defineConfig({
       {
         text: 'Apple ID 分享',
         items: [
-          { text: 'Apple ID 分享', link: '/apple-examples' }
+          { text: 'Apple ID 分享', link: '/apple-examples' },
+          { text: 'Apple ID 分享2', link: '/apple-examples' },
         ]
       }
     ],
