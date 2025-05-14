@@ -28,6 +28,13 @@ export default defineConfig({
           { text: 'TikTok避坑指南', link: '/TK-tutorial1' },
           { text: 'TikTok网络浅谈', link: '/TK-tutorial2' }
         ]
+       }，
+       {
+        text: '跨境电商群友互助',
+        items: [
+          { text: 'TikTok群友交流', link: '/TK-comminicate1' },
+          { text: '站主联系', link: '/mysite' }
+        ]
       }
     ],
 
