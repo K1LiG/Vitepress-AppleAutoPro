@@ -20,7 +20,9 @@ export default defineConfig({
         items: [
           { text: '全球IP/资料服务商', link: '/apple-examples' },
           { text: '全球TK号商', link: '/apple-shareid2' }
-          ]
+        ]
+       },
+       {
         text: 'TK教程分享',
         items: [
           { text: 'TK教程1', link: '/TK-jiaocheng1' },
