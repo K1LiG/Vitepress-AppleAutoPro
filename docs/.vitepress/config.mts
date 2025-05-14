@@ -7,7 +7,7 @@ export default defineConfig({
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/logo.svg',
+    logo: '/os_django.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Apple ID 分享', link: '/apple-examples' }
