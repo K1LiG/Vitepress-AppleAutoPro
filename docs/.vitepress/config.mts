@@ -25,8 +25,8 @@ export default defineConfig({
        {
         text: 'TK教程分享',
         items: [
-          { text: 'TK教程1', link: '/TK-jiaocheng1' },
-          { text: 'TK教程2', link: '/TK-jiaocheng2' }
+          { text: 'TikTok避坑指南', link: '/TK-tutorial1' },
+          { text: 'TK教程2', link: '/TK-tutorial2' }
         ]
       }
     ],
