@@ -3,11 +3,11 @@
 layout: home
 
 hero:
-  name: "测试文档"
-  tagline: 把AppleAutoPro分享页内嵌到VitePress
+  name: "Django Tiktok blog"
+  tagline: Apple ID免费分享
   actions:
     - theme: brand
-      text: Examples
+      text: 领取ID
       link: /apple-examples
 ---
 
