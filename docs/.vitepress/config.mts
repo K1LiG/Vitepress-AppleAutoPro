@@ -9,14 +9,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/apple-examples' }
+      { text: 'Apple ID 分享', link: '/apple-examples' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Apple ID 分享',
         items: [
-          { text: 'Examples', link: '/apple-examples' }
+          { text: 'Apple ID 分享', link: '/apple-examples' }
         ]
       }
     ],
