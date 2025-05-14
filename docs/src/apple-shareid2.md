@@ -2,7 +2,7 @@
 > 本文档分享ID谨慎使用，注意锁机等情况，凭本站广告消费认证可以来找站主提供解锁。
 
 ::: info Apple ID
-<GetAppleID[1] />
+<GetAppleID />
 :::
 
 
