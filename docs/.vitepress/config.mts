@@ -25,7 +25,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { svg: '/telegram-svgrepo-com.svg', link: 'https://t.me/K1LiG' }
+      { icon: 'telegram', link: 'https://t.me/K1LiG' }
     ]
   },
   srcDir: './src'
