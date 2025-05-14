@@ -5,9 +5,6 @@
 <GetAppleID />
 :::
 
-::: info Apple ID
-<GetAppleID />
-:::
 
 ## 广告推荐
 
