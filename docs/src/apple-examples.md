@@ -1,12 +1,14 @@
 # Apple ID 分享
 
-
+::: info Apple ID
+<GetAppleID />
+:::
 
 ::: info Apple ID
 <GetAppleID />
 :::
 
-## 搭建测试
+## 广告推荐
 > 本文档仅供参考，请勿在生产环境使用。
 
 ![image](/20241109220614.png)
