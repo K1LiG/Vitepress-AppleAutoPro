@@ -1,5 +1,6 @@
 # Apple ID 分享
 > 本文档分享ID谨慎使用，注意锁机等情况，凭以下广告消费认证可以来找站主提供解锁。
+
 ::: info Apple ID
 <GetAppleID />
 :::
