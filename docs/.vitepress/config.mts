@@ -31,14 +31,14 @@ export default defineConfig({
           { text: '美国免费节点', link: '/CF-US' },
           { text: '新加坡免费节点', link: '/CF-SG' }
         ]
-       }，
+       },
        {
         text: 'TK教程分享',
         items: [
           { text: 'TikTok避坑指南', link: '/TK-tutorial1' },
           { text: 'TikTok网络浅谈', link: '/TK-tutorial2' }
         ]
-       }，
+       },
        {
         text: '跨境电商群友互助',
         items: [
