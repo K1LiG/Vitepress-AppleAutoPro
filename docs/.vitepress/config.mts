@@ -23,6 +23,16 @@ export default defineConfig({
         ]
        },
        {
+        text: '免费节点使用',
+        items: [
+          { text: '韩国免费节点', link: '/CF-KR' },
+          { text: '日本免费节点', link: '/CF-JP' },
+          { text: '香港免费节点', link: '/CF-HK' },
+          { text: '美国免费节点', link: '/CF-US' },
+          { text: '新加坡免费节点', link: '/CF-SG' },
+        ]
+       }，
+       {
         text: 'TK教程分享',
         items: [
           { text: 'TikTok避坑指南', link: '/TK-tutorial1' },
