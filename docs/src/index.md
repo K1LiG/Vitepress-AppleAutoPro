@@ -10,7 +10,7 @@ hero:
       text: 领取ID
       link: /apple-examples
     - theme: brand
-      text: 进群交流
-      link: /apple-examples
+      text: 领取节点
+      link: /CF-KR
 ---
 
