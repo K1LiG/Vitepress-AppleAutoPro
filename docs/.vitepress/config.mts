@@ -29,7 +29,7 @@ export default defineConfig({
           { text: '日本免费节点', link: '/CF-JP' },
           { text: '香港免费节点', link: '/CF-HK' },
           { text: '美国免费节点', link: '/CF-US' },
-          { text: '新加坡免费节点', link: '/CF-SG' },
+          { text: '新加坡免费节点', link: '/CF-SG' }
         ]
        }，
        {
