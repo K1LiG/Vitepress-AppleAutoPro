@@ -33,10 +33,11 @@ export default defineConfig({
         ]
        },
        {
-        text: 'TK教程分享',
+        text: '教程分享',
         items: [
           { text: 'TikTok避坑指南', link: '/TK-tutorial1' },
-          { text: 'TikTok网络浅谈', link: '/TK-tutorial2' }
+          { text: 'TikTok网络浅谈', link: '/TK-tutorial2' },
+          { text: '共享国外Apple ID使用教程', link: '/apple-id-tutorial' }
         ]
        },
        {
